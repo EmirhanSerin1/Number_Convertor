@@ -25,8 +25,6 @@ buildTextField(
               return 'Please enter some number';
             }else if(double.parse(value) > 999999999999){
               return 'Max 999 billion 999 million 999 thousand 999 hundred 999';
-            }else if((double.parse(value)*1000000000000000000)%1000000000000000000 != 0 ){
-              return 'Please enter some Integer value';
             }
             return null;
           },
