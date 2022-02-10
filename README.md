@@ -11,7 +11,7 @@ And press the Convert button to convert
   <img src="assets/1.jpg" width="200" >
 </p>
 
-If you want to change the light theme to dark theme. Tap the settings button in the top right. Then you can change the theme
+If you want to change the light theme to dark theme. Tap the settings button in the top right. Then you can change the theme. 
 You can add colors by changing the colors from the lib/core/constants file optionally.
 
 <p float="left">
